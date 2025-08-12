@@ -1,2 +1,2 @@
 # college
-my first project
+college project
